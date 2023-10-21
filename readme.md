@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>Hi there, I'm <a href="https://gonultasmf.dev">Mustafa Gönültaş</a></h1>
+   <h1>Hi there, I'm <a href="https://www.linkedin.com/in/mustafa-gönültaş-4635801b9/">Mustafa Gönültaş</a></h1>
 </div>
 
 

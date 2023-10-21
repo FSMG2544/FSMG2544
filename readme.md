@@ -22,7 +22,7 @@
    ### 🤝🏻 &nbsp;Connect with Me 🤝
 
 <div align="center">
-<a href="https://linkedin.com/in/mertcanduldul" target="_blank">
+<a href="https://www.linkedin.com/in/mustafa-gönültaş-4635801b9/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://stackoverflow.com/users/18822836/mustafa-gönültaş" target="_blank">

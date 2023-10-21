@@ -2,7 +2,6 @@
    <h1>Hi there, I'm <a href="https://www.linkedin.com/in/mustafa-gönültaş-4635801b9/">Mustafa Gönültaş</a></h1>
 </div>
 
-
 <div align="center">
    <h3>
    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
@@ -23,10 +22,16 @@
 
 <div align="center">
 <a href="https://www.linkedin.com/in/mustafa-gönültaş-4635801b9/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 <a href="https://stackoverflow.com/users/18822836/mustafa-gönültaş" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>  
-</div>  
+<img src="https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" alt="stackoverflow" style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.youtube.com/channel/UCRtmy_c9dwHNiMINth3XCIQ" target="_blank">
+<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" style="margin-bottom: 5px;" />
+</a>
+<a href="mailto:gonultasmf@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="email" style="margin-bottom: 5px;" />
+</a>
+</div>
 </div>

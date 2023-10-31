@@ -16,7 +16,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gonultasmf&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gonultasmf&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-<p align="center" dir="auto"><a href="https://github.com/gonultasmf"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gonultasmf&amp;theme=algolia" width="460em" alt="gonultasmf" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=gonultasmf&amp;theme=algolia" style="max-width: 100%;"></a></p>
+<p align="center" dir="auto"><a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gonultasmf&amp;theme=algolia" width="460em" alt="gonultasmf" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=gonultasmf&amp;theme=algolia" style="max-width: 100%;"></a></p>
    
    ### 🤝🏻 &nbsp;Connect with Me 🤝
 

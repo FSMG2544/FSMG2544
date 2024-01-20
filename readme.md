@@ -30,7 +30,7 @@
 <a href="https://www.youtube.com/@gnlta" target="_blank">
 <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" style="margin-bottom: 5px;" />
 </a>
-<a href="mailto:gonultasmf@gmail.com" target="_blank">
+<a href="mailto:gonultasmf@hotmail.com" target="_blank">
 <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="email" style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.nuget.org/profiles/FmgSoft" target="_blank">

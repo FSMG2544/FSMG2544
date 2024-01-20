@@ -33,6 +33,8 @@
 <a href="mailto:gonultasmf@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="email" style="margin-bottom: 5px;" />
 </a>
+<a href="https://www.nuget.org/profiles/FmgSoft" target="_blank">
+    <img src="https://img.shields.io/badge/nuget-%23004880.svg?&style=for-the-badge&logo=nuget&logoColor=white" alt="nuget" />
+</a>
 </div>
 </div>
-

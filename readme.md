@@ -36,8 +36,5 @@
 <a href="https://www.nuget.org/profiles/FmgSoft" target="_blank">
     <img src="https://img.shields.io/badge/nuget-%23004880.svg?&style=for-the-badge&logo=nuget&logoColor=white" alt="nuget" />
 </a>
-<a href="https://wakatime.com/@_gnlta_" target="_blank">
-    <img src="https://wakatime.com/badge/user/2336bc3f-f896-4a43-a4db-0db400873fb5.svg" alt="wakatime" />
-</a>
 </div>
 </div>

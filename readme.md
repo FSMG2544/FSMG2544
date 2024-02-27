@@ -36,11 +36,11 @@
 <a href="https://www.nuget.org/profiles/FmgSoft" target="_blank">
     <img src="https://img.shields.io/badge/nuget-%23004880.svg?&style=for-the-badge&logo=nuget&logoColor=white" alt="nuget" />
 </a>
-<a href="https://marketplace.visualstudio.com/items?itemName=FmgLib.FmgLibMauiMarkupTemplate&ssr=false#overview" target="_blank">
+<!--<a href="https://marketplace.visualstudio.com/items?itemName=FmgLib.FmgLibMauiMarkupTemplate&ssr=false#overview" target="_blank">
     <img src="https://img.shields.io/visual-studio-marketplace/r/FmgLib.FmgLibMauiMarkupTemplate" alt="Visual Studio Marketplace Rating" />
 </a>
 <a href="https://marketplace.visualstudio.com/items?itemName=FmgLib.FmgLibMauiMarkupTemplate&ssr=false#overview" target="_blank">
     <img src="https://img.shields.io/visual-studio-marketplace/i/FmgLib.FmgLibMauiMarkupTemplate" alt="Visual Studio Marketplace Downloads" />
-</a>
+</a>-->
 </div>
 </div>

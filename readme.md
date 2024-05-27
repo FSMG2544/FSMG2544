@@ -9,7 +9,7 @@
    </h3>
    <div>
    <a><img src="https://komarev.com/ghpvc/?username=gonultasmf&label=Profile%20views&color=5e30eb&style=flat" alt="gonultasmf" /> </a>
-   <a href="https://wakatime.com/@_gnlta_"><img src="https://wakatime.com/badge/user/2336bc3f-f896-4a43-a4db-0db400873fb5.svg" /></a>
+   <a href="https://wakatime.com/@_gnlta_"><img src="https://wakatime.com/badge/user/99f460e4-f157-472c-8766-385b41495463.svg" /></a>
    </div>
    <h3 align="center">My Stats:</h3>
 <a href="https://github.com/gonultasmf">
